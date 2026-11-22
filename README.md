@@ -45,9 +45,9 @@
 
 | Device | OS | Status |
 |--------|-----|--------|
-| 🖥️ Workstation Alpha | Windows 10 Pro | 🟢 Online |
-| 🐉 Kali Linux VM | Kali Linux 2025.4 (VirtualBox) | 🟢 Online |
-| 📱 Huawei Y6 Prime 2019 | Android 9 | 🟢 Online |
+| 🖥️ Gigabyte Aorus | Windows 11 Pro | 🟢 Online |
+| 🐉 Kali Linux Oracle | Kali Linux 2026.3 (VirtualBox) | 🟢 Online |
+| 📱 Samsung A07 | Android 17 | 🟢 Online |
 | 📱 Redmi 12C | Android 14 | 🟢 Online |
 
 </div>
